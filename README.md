@@ -9,12 +9,12 @@ Java's components are designed to restrict data access and provide a number of m
 
 
 
-# Result Or OUTPUT
+# Result  
 
 ![img1](https://user-images.githubusercontent.com/114096750/196742648-0978cf9d-1d80-4239-909b-6409ba0dd53c.png)
 
 
-
+# `OUTPUT`
 
 
 
